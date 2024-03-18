@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "title": "Sakız",
+    "price": 0.5,
+    "img": "https://reimg-carrefour.mncdn.com/mnresize/600/600/productimage/30082462/30082462_0_MC/8796797599794_1555415441220.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Kola",
+    "price": 6,
+    "img": "https://ideacdn.net/idea/go/87/myassets/products/333/090-01-coc01-016645.jpg?revision=1697143329"
+  },
+  {
+    "id": 3,
+    "title": "Ayakkabı",
+    "price": 400,
+    "img" : "https://akn-desa.a-cdn.akinoncloud.com/products/2023/02/07/187034/8188ea2b-7d25-41a8-af6b-6cb9ae7afc5d_size780x780_cropCenter.jpg"
+  },
+  {
+    "id": 4,
+    "title": "Araba",
+    "price": 40000,
+    "img": "https://productimages.hepsiburada.net/s/432/375-375/110000464670382.jpg"
+  }
+]
